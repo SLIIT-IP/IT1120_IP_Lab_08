@@ -51,16 +51,17 @@ Replace 'ITxx xxx xxx' of the filename, with your own Student ID.
     <img src="resources/media/image5.png" alt="Image description" style="width:50%; height:50%;">
   </p>
 
-  **Question 3 (Tutorial 7 -- Q3)**\
+  **Question 3 (Tutorial 7 -- Q3)**
+  
 Write a Java program to create an integer array of size 6.
 
 Input numbers from the keyboard and store 6 positive numbers in the
-array. If a negative number or [zero]{.underline} is entered, display an
+array. If a negative number or zero is entered, display an
 error message.
 
 Finally, find the **maximum number**.
 
-***Note:*** A total of 6 positive numbers [should be]{.underline} stored
+***Note:*** A total of 6 positive numbers should be stored
 in the array
 
 Save the file inside '**Lab 8**' folder as: **ITxxxxxxxxLab8Q3.java**
@@ -72,12 +73,12 @@ Replace 'ITxx xxx xxx' of the filename, with your own Student ID.
     <img src="resources/media/image6.png" alt="Image description" style="width:50%; height:50%;">
   </p>
 
-**Question 4 (Tutorial 7 -- Q4)**\
+**Question 4 (Tutorial 7 -- Q4)**
+
 Write a Java program to insert Student IDs of 8 students and store in an
-array called ***studentsArray***. If a negative number or
-[zero]{.underline} is entered, display an error message. Then [ask user
-to enter a Student ID]{.underline} from the keyboard and
-[fin]{.underline}d whether the Student ID is available in the array:
+array called ***studentsArray***. If a negative number or zero is entered, display an error message. Then ask user
+to enter a Student ID from the keyboard and
+find whether the Student ID is available in the array:
 
 > • Display message *'Student is Available'* if the student is found.
 >
