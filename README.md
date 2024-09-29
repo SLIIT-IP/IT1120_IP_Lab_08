@@ -5,34 +5,27 @@
 
 
 
-> **Question 1 (Tutorial 7 -- Q1)**
->
-> a\) Write a Java program to input numbers via keyboard to an array
-> called ***myArray***. Size of the array is 5.
->
-> Print the contents of the ***myArray*** in the reverse order you
-> entered.
->
-> Save the file inside '**Lab 8**' folder as: **ITxxxxxxxxLab8Q1A.java**
-> Replace 'ITxx xxx xxx' of the filename, with your own Student ID.
->
-> Expected Output:
+## **Question 1 (Tutorial 7 -- Q1)**
 
+a) Write a Java program to input numbers via the keyboard to an array called ***myArray***. The size of the array is 5.
+
+Print the contents of the ***myArray*** in the reverse order you entered.
+
+Save the file inside the '**Lab 8**' folder as: **ITxxxxxxxxLab8Q1A.java**. Replace 'ITxxxxxxxx' with your own Student ID.
+
+**Expected Output:**
   <p align="center">
     <img src="resources/media/image2.png" alt="Image description" style="width:50%; height:50%;">
   </p>
 
 
-> b\) Create another array called ***evenArray***. Find the even numbers
-> of array ***myArray***
->
-> and store them in ***evenArray***.
->
-> Save the file inside '**Lab 8**' folder as: **ITxxxxxxxxLab8Q1B.java**
->
-> Replace 'ITxx xxx xxx' of the filename, with your own Student ID.
->
-> Expected Output:
+b) Create another array called ***evenArray***. Find the even numbers of array ***myArray*** and store them in ***evenArray***.
+
+Save the file inside '**Lab 8**' folder as: **ITxxxxxxxxLab8Q1B.java**
+
+Replace 'ITxxxxxxxx' with your own Student ID.
+
+**Expected Output:**
 
   <p align="center">
     <img src="resources/media/image4.png" alt="Image description" style="width:50%; height:50%;">
