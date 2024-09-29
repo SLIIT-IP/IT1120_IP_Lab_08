@@ -19,7 +19,7 @@
 > Expected Output:
 
   <p align="center">
-    <img src="resources/media/image4.png" alt="Image description" style="width:50%; height:50%;">
+    <img src="resources/media/image2.png" alt="Image description" style="width:50%; height:50%;">
   </p>
 
 
@@ -54,7 +54,7 @@ Replace 'ITxx xxx xxx' of the filename, with your own Student ID.
 Expected Output:
 
   <p align="center">
-    <img src="resources/media/image4.png" alt="Image description" style="width:50%; height:50%;">
+    <img src="resources/media/image5.png" alt="Image description" style="width:50%; height:50%;">
   </p>
 
   **Question 3 (Tutorial 7 -- Q3)**\
@@ -75,7 +75,7 @@ Replace 'ITxx xxx xxx' of the filename, with your own Student ID.
 Expected Output:
 
   <p align="center">
-    <img src="resources/media/image4.png" alt="Image description" style="width:50%; height:50%;">
+    <img src="resources/media/image6.png" alt="Image description" style="width:50%; height:50%;">
   </p>
 
 **Question 4 (Tutorial 7 -- Q4)**\
@@ -96,7 +96,7 @@ Replace 'ITxx xxx xxx' of the filename, with your own Student ID.
 Expected Output:
 
   <p align="center">
-    <img src="resources/media/image4.png" alt="Image description" style="width:50%; height:50%;">
+    <img src="resources/media/image7.png" alt="Image description" style="width:50%; height:50%;">
   </p>
   
   <p align="center">
