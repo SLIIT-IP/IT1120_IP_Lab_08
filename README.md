@@ -5,7 +5,7 @@
 
 
 
-## **Question 1 (Tutorial 7 -- Q1)**
+**Question 1 (Tutorial 7 -- Q1)**
 
 a) Write a Java program to input numbers via the keyboard to an array called ***myArray***. The size of the array is 5.
 
@@ -31,7 +31,8 @@ Replace 'ITxxxxxxxx' with your own Student ID.
     <img src="resources/media/image4.png" alt="Image description" style="width:50%; height:50%;">
   </p>
 
-**Question 2 (Tutorial 7 -- Q2)**\
+**Question 2 (Tutorial 7 -- Q2)**
+
 Write a Java program to add the content of array A and B and store it in
 a new array called C.
 
@@ -44,7 +45,7 @@ Calculate A+B and store in Array C
 Save the file inside '**Lab 8**' folder as: **ITxxxxxxxxLab8Q2.java**
 Replace 'ITxx xxx xxx' of the filename, with your own Student ID.
 
-Expected Output:
+ **Expected Output:**
 
   <p align="center">
     <img src="resources/media/image5.png" alt="Image description" style="width:50%; height:50%;">
@@ -65,7 +66,7 @@ in the array
 Save the file inside '**Lab 8**' folder as: **ITxxxxxxxxLab8Q3.java**
 Replace 'ITxx xxx xxx' of the filename, with your own Student ID.
 
-Expected Output:
+ **Expected Output:**
 
   <p align="center">
     <img src="resources/media/image6.png" alt="Image description" style="width:50%; height:50%;">
@@ -86,7 +87,7 @@ to enter a Student ID]{.underline} from the keyboard and
 Save the file inside '**Lab 8**' folder as: **ITxxxxxxxxLab8Q4.java**
 Replace 'ITxx xxx xxx' of the filename, with your own Student ID.
 
-Expected Output:
+ **Expected Output:**
 
   <p align="center">
     <img src="resources/media/image7.png" alt="Image description" style="width:50%; height:50%;">
